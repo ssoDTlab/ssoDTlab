@@ -41,4 +41,9 @@ Here are some ideas to get you started:
 <br>
 <div align=center><h1>Certified</h1></div>
  
+<br>
+<div align=center><h1>Others</h1></div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sangwon98)](https://solved.ac/sangwon98)​
+
 
