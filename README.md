@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 * Programming Contest
   * (2023) 제3회 충청북도 대학생 프로그래밍 경진대회 장려상
-
+  * (2022) 중앙대학교 프로그래밍 경진대회(CPC) Open Contest , 39등
 <br>
 <div align=center><h1>Certified</h1></div>
  
