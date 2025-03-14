@@ -2,7 +2,7 @@
 
 <div>
 Welcome to my page! <br>
-My name is Sang-Won Seo, and I enjoy learning about SLAM. 
+My name is Sang-Won Seo, and I enjoy learning about Generative model. 
 </div>
 
 <!--
