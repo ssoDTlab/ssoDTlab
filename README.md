@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 <br>
 <div align=center><h1>Honors & Awards</h1></div>
 
-* Programming Contest
-  * (2023) 제3회 충청북도 대학생 프로그래밍 경진대회 장려상
-  * (2022) 중앙대학교 프로그래밍 경진대회(CPC) Open Contest , 39등
+* (2022.09.18) 중앙대학교 프로그래밍 경진대회(CPC) Open Contest (39th)
+* (2022.09.17) 부산대학교 CodeRace Open Contest (18th)
+* (2024.07.06) 제3회 충청북도 대학생 프로그래밍 경진대회 장려상 (11th)
+* (2025.05.26) 한국정보통신학회 춘계학술대회 학생우수논문상
 <br>
 <div align=center><h1>Certified</h1></div>
  
