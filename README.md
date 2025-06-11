@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>Publication</h1></div>
-[1]
+[1] Seo, s., Park, h : Improving Quality and Diversity of GAN Image Generation through Cosine Similarity-Based Diversity Loss. KIICE 2025
 <br>
 <div align=center><h1>Honors & Awards</h1></div>
 
