@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center><h1>Publication</h1></div>
+[1]
 <br>
 <div align=center><h1>Honors & Awards</h1></div>
 
