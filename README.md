@@ -1,10 +1,3 @@
-## Hello World 👋 
-
-<div>
-Welcome to my page! <br>
-My name is Sang-Won Seo, and I enjoy learning about Generative model. 
-</div>
-
 <!--
 **ssoDTlab/ssoDTlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
