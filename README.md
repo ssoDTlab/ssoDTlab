@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <div align=center><h1>Publication</h1></div>
 [1] Seo, s., Park, h : Improving Quality and Diversity of GAN Image Generation through Cosine Similarity-Based Diversity Loss. KIICE 2025
 <br>
+[2] Seo, s., Park, h : Feature Space-Based Center Constraint Loss for Improving Quality and Diversity in GANs. KOREAAI 2025
+
 <div align=center><h1>Honors & Awards</h1></div>
 
 * (2022.09.18) 중앙대학교 프로그래밍 경진대회(CPC) Open Contest (39th)
