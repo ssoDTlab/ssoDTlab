@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>Publication</h1></div>
+<b>Journal</b>
 <b>[1]</b> Sang-Won Seo, Hyun-Cheol Park, ”A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss”, Journal of the Korea Institute of Information and Communication Engineering, vol. 29, issue 10, 2025
 <br>
 <br>
