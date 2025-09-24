@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>Publication</h1></div>
-[1] Seo, s., Park, h : Improving Quality and Diversity of GAN Image Generation through Cosine Similarity-Based Diversity Loss. KIICE 2025
+[1]Sang-Won Seo, Hyun-Cheol Park, ”A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss”, Journal of the Korea Institute of Information and Communication Engineering, vol. 29, issue 10, 2025
 <br>
-[2] Seo, s., Park, h : Feature Space-Based Center Constraint Loss for Improving Quality and Diversity in GANs. KOREAAI 2025
+[2] Sang-Won Seo, Hyun-Cheol Park, ”Improving Quality and Diversity of GAN Image Generation through Cosine Similarity-Based Diversity Loss”, The 57th Spring Conference of the Korea Institute of Information and Communication Engineering (KIICE), 2025
+<br>
+[3] ang-Won Seo, Hyun-Cheol Park, ”Feature Space-Based Center Constraint Loss for Improving Quality and Diversity in GANs”, The 6th Korea Artificial Intelligence Conference, 2025
 
 <div align=center><h1>Honors & Awards</h1></div>
 
