@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <b>[3]</b> Sang-Won Seo, Hyun-Cheol Park, ”Feature Space-Based Center Constraint Loss for Improving Quality and Diversity in GANs”, The 6th Korea Artificial Intelligence Conference, 2025
+<h3> In Preparation </h3>
+<b>[4]</b> Sang-Won Seo, ”Mitigating Exposure Bias in Diffusion Models via Semantic Feature Projection”
 
 <div align=center><h1>Honors & Awards</h1></div>
 
@@ -31,7 +33,8 @@ Here are some ideas to get you started:
 * (2025.05.26) 한국정보통신학회 춘계학술대회 학생우수논문상
 <br>
 <div align=center><h1>Certified</h1></div>
- 
+
+* (2025.08.29) OPIC Intermediate Mid1 (English)
 <br>
 <div align=center><h1>Others</h1></div>
 
