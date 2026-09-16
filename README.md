@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 <b>[3]</b> Sang-Won Seo, Hyun-Cheol Park, ”Feature Space-Based Center Constraint Loss for Improving Quality and Diversity in GANs”, The 6th Korea Artificial Intelligence Conference, 2025
 <h3> In Preparation </h3>
-<b>[4]</b> Sang-Won Seo, ”Mitigating Exposure Bias in Diffusion Models via Semantic Feature Projection”
+<b>[4]</b> Sang-Won Seo, ”Directional Noise Correction in Diffusion Sampling: A Conditional Analysis”
 
 <div align=center><h1>Honors & Awards</h1></div>
 
